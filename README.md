@@ -7,6 +7,7 @@ for Machine Learning, including :
 article
 - `sota.md` contains links to the github repositories with state-of-the-art
 models implementation.
+- `data`is a folder that contains links to the benchmark datasets mentioned in the survey.
 - `synthetic` is a folder that contains the code to generate the synthetic
 graphs G1--G6 and the script to produce the visualisation presented in the survey.
 Three files can be found in this folder:
